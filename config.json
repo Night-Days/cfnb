@@ -141,7 +141,7 @@
     "HTTP_TEST_RETRY_DELAY": 3,
     "_comment_HTTP_TEST_RETRY_DELAY": "HTTP 请求重试间隔（秒）",
 
-    "HTTP_TEST_WORKERS": 10,
+    "HTTP_TEST_WORKERS": 32,
     "_comment_HTTP_TEST_WORKERS": "HTTP 检测的并发线程数",
 
     "HTTP_TEST_METHOD": "HEAD",
